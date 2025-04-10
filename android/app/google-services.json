@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045411341624",
+    "project_id": "unitaqua-3b6b7",
+    "storage_bucket": "unitaqua-3b6b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045411341624:android:272c34656411ab1c13cdcd",
+        "android_client_info": {
+          "package_name": "com.unitaqua.unity_labs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDth9zcvbyk7vpkEQYy0-ARCaHHMm81-ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

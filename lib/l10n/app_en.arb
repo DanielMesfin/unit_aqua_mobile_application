@@ -1,0 +1,365 @@
+{
+  "stringData": "{text}",
+  "@stringData": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "giveGiftTagline": "Give the gift of love!\nUsing eStota App!",
+  "exploreGifts": "Explore Gifts",
+  "start_sharing_today": "Start sharing today",
+  "learnMore": "Learn More",
+  "exploring_products": "Exploring products",
+  "start_sharing": "Start Sharing",
+  "product_description": "Product Description",
+  "share_this_product": "Share this product",
+  "discover": "Discover",
+  "choose_gift_receiver_to_share": "Choose a gift receiver whom you'd want to share to",
+  "send_your_gifts": "Send your gifts",
+  "welcome": "Welcome",
+  "restaurants": "Restaurants",
+  "liquor": "Liquor",
+  "giftStore": "Gifts",
+  "essentials": "Essentials",
+  "products": "Products",
+  "filters": "Filters",
+  "more": "more",
+  "popular": "Popular",
+  "bestDeal": "Best Deal",
+  "nearBy": "NearBy",
+  "all": "All",
+  "orderNow": "Order Now",
+  "percentageOff": "{percentage}% off",
+  "@percentageOff": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      }
+    }
+  },
+  "store_header": "{title} {category}",
+  "@store_header": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "home": "Home",
+  "cart": "Cart",
+  "noCartItem": "No Cart Item",
+  "removeCartTitle": "Remove Cart Item",
+  "maximumCartItemReached": "Maximum Cart item reached",
+  "removeCartDescription": "Do u really want to remove cart item?",
+  "willBeAppliedOnTheDeliveryCharge": " {promoCode} will be  applied on the delivery charge.",
+  "@willBeAppliedOnTheDeliveryCharge": {
+    "placeholders": {
+      "promoCode": {
+        "type": "String"
+      }
+    }
+  },
+  "notFound": " {notFoundTitle} not found.",
+  "@notFound": {
+    "placeholders": {
+      "notFoundTitle": {
+        "type": "String"
+      }
+    }
+  },
+  "apply": "Apply",
+  "applyCouponCodeHere": "Apply Coupon Code here",
+  "myCart": "My Cart",
+  "myOrders": "My Orders",
+  "editProfile": "Edit Profile",
+  "save": "Save",
+  "review": "Review",
+  "review_description": "thank you for choosing us today! To help us best serve you and others, could you give us feedback about your experience today?",
+  "submit": "Submit",
+  "metahuAddis": "Metahu Addis",
+  "reachOut": "Reach out to us",
+  "followUs": "Follow Us",
+  "loadMore": "Load More",
+  "trackNow": "Track Now",
+  "deliveryAddress": "Delivery Address",
+  "estimatedDeliveryTime": "Estimated delivery time",
+  "metahuAddisDescription": "Metahu Addis, a registered trademark of Green Addis Technologies PLC, is an on-demand delivery platform driven by state-of-the-art technology accompanied by immaculate customer service and unlimited options for customers to access their favorite restaurants grocery stores pharamaceuticals and gift shops in an easy and fast way",
+  "changePassword": "Change Password",
+  "changePasswordDescriptionHeader": "You might be changing your password for different reasons, but whenever you do please make sure you can remember it since you will immediately log out of the system after clicking the save button below.",
+  "changePasswordDescription": "Update or change your current password. You might have to login after the change",
+  "editProfileDescription": "You can edit detail information about yourself",
+  "myOrdersDescription": "Manage all your orders in one place",
+  "addressDescription": "Manage your delivery addresses",
+  "notificationDescription": "Manage all your notifications",
+  "settingDescription": "Set your notification preferences and change password",
+  "couponDescription": "Get coupons from here.",
+  "deleteAccount": "Delete Your account",
+  "couponCode": "Coupon Code",
+  "coupons": "Coupons",
+  "profile": "Profile",
+  "createProfile": "Create Profile",
+  "updateProfile": "Update Profile",
+  "apply_to_cart": "Apply to cart",
+  "added_to_cart": "Added to cart!",
+  "add_at_least_one_item_in_to_cart": "Please add at least one gift to the cart!",
+  "add_at_least_one_item": "Please add at least one gift!",
+  "remove_item": "Remove this gift?",
+  "are_you_sure_to_remove_this_item": "Are you sure you want to remove this gift?",
+  "empty_cart": "Seems like you have no gift in the cart",
+  "checkout": "Checkout",
+  "total_price": "Total Price: ",
+  "amount": "Amount",
+  "buy_now": "Buy Now",
+  "payment": "Payment",
+  "payment_type": "Payment Type",
+  "items": "Gifts",
+  "quantity": "Quantity",
+  "order_number": "OrderNumber: ",
+  "confirm_order": "Confirm Order",
+  "pay_now": "Pay Now",
+  "sub_total": "SubTotal ",
+  "item_price": "Item Price ",
+  "discount": "Discount ",
+  "deliveryCost": "Delivery Cost ",
+  "deliveryDiscount": "Delivery Discount ",
+  "taxAmount": "Tax Amount ",
+  "totalCost": "Total Cost ",
+  "totalAmount": "Total Amount: ",
+  "unknown": "Unknown",
+  "started": "Started",
+  "payment_completed": "Payment Completed",
+  "payment_failed": "Payment Failed",
+  "fulfilled": "Delivered",
+  "purchase_history": "Purchase History",
+  "purchase_success_message": "Thank you for making your gift receiver happy! You can get the purchase info under purchase history from the settings screen.",
+  "add_new_receiver": "Add New Receiver",
+  "update_receiver": "Update Receiver",
+  "new_receiver": "New Gift Receiver",
+  "edit_receiver": "Edit Gift Receiver",
+  "remove_receiver": "Remove Gift Receiver",
+  "choose_receiver": "Choose Gift Receiver",
+  "add_new_contact": "+ Add New Contact",
+  "receiver_list": "Gift Receiver List",
+  "search_celebrity": "Search Special Gift Receiver",
+  "special_receiver": "Special Receiver",
+  "your_special_receiver_will_appear_here": "Your special gift receivers will appear here.",
+  "enter_receiver_code_here": "Enter code here",
+  "enter_celebrity_code": "Enter special gift receiver code here",
+  "no_receiver_found": "Seems like you don't have a gift receiver, please add a gift receiver",
+  "name": "Name",
+  "phone_number": "Phone Number",
+  "emailAddress": "Email Address",
+  "address": "Address",
+  "useSavedLocation": "Use Your Saved Location",
+  "useCurrentLocation": "Use Your Current Location",
+  "couldNotGetYourLocation": "Couldn't get your location.",
+  "locationError": "Location Error",
+  "yourLocation": "Your Location",
+  "savedLocation": "Saved Location",
+  "addAddress": "Add Address",
+  "updateAddress": "Update Address",
+  "addressName": "Address Name",
+  "addressContactName": "Contact Name",
+  "addressContactPhone": "Contact Phone",
+  "addressLocation": "Address Location",
+  "first_name": "First Name",
+  "full_name": "Full Name",
+  "last_name": "Last Name",
+  "verificationCode": "Verification Code",
+  "weJustSentAVerificationCodeTo": "We just sent a verification code to {phoneNumber}",
+  "@weJustSentAVerificationCodeTo": {
+    "placeholders": {
+      "phoneNumber": {
+        "type": "String"
+      }
+    }
+  },
+  "login": "Login",
+  "locations": "Locations",
+  "priceSummary": "Price Summary",
+  "loginInstruction": "Enter your email and password to login and get the best of Metahu Addis.",
+  "logout": "Logout",
+  "are_you_sure_you_really_want_to_log_out": "Are you sure you really want to logout?",
+  "login_with_email": "Login with Email",
+  "skip_login": "Skip",
+  "sign_up": "SignUp",
+  "signUpInstruction": "Welcome, fill the form below to sign-up as a new user",
+  "forgot_password": "Forgot Password?",
+  "change_password": "Change Password",
+  "forgotPasswordInstruction": "Please enter your email address so that we will send a link into your email to reset your password.",
+  "phone": "Phone",
+  "password": "Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm Password",
+  "password_reset": "Reset Password",
+  "enterYourAddress": "Enter your address",
+  "enter_email_address_for_password_reset_instruction": "Enter your email address to send you an instruction on how to reset your password",
+  "password_reset_success": "Password reset success",
+  "check_your_email": "Check your email inbox",
+  "we_have_sent_an_email_check_your_email_for_activation_code": "We've just sent you an email. Please check your email inbox and enter the activation code",
+  "did_not_receive_code": "Did not receive a code?",
+  "create_new_password": "Create New Password",
+  "your_new_password_must_be_differ_from_previous": "Your new password must be different from your previous password",
+  "confirm_password": "Confirm Password",
+  "gift_receiver": "Gift Receiver",
+  "we_are_glad_you_are_here": "We're glad you're here",
+  "welcomeBack": "Welcome Back",
+  "createAccount": "Create Account",
+  "do_not_have_account": "Don't have an account?",
+  "alreadyHaveAccount": "Already have an account?",
+  "continueWith": "Continue with",
+  "invite_contact": "Invite contact",
+  "phone_contacts_list": "Phone contacts list",
+  "share_from_phone_contacts_list": "Share from phone contacts list",
+  "estota_collects_contact_list": "Share your contacts so you can choose who you would like to invite. We will keep your contacts safe.",
+  "ok": "Ok",
+  "you_need_to_accept_this_permission": "we need {permission_name} permission",
+  "by_using_estota_app_you_agree_to_our": "By using eStota app you have agreed to our ",
+  "terms": "Terms",
+  "and": " and ",
+  "privacy_policy": "Privacy Policy",
+  "agreed": "agreed",
+  "@you_need_to_accept_this_permission": {
+    "placeholders": {
+      "permission_name": {
+        "type": "String"
+      }
+    }
+  },
+  "orderSummary": "Order Summary",
+  "paymentMethod": "Payment Method",
+  "cashOnDelivery": "Cash on Delivery",
+  "placeOrder": "Place Order",
+  "orderSubmittedSuccessfully": "Order submitted successfully",
+  "pickUp": "PickUp",
+  "@pickUp": {
+    "description": "pick up location for delivery."
+  },
+  "dropOff": "DropOff",
+  "@dropOff": {
+    "description": "Drop off location for delivery."
+  },
+  "orderItems": "Order Items",
+  "cancel": "Cancel",
+  "activeOrders": "Active Orders",
+  "completedOrders": "Completed Orders",
+  "reorder": "Reorder",
+  "orderDetail": "Order Detail",
+  "notice": "Notice",
+  "invite": "Invite",
+  "share_link": "Share link",
+  "share_description": "Do you want someone to send you gift? Or you just want to share this product?",
+  "sharing": "Sharing...",
+  "something_to_tell_us": "Something to tell us ?",
+  "contact_us": "Contact Us",
+  "how_it_works": "How It works",
+  "thank_you_for_reaching_out": "Thank you for reaching out",
+  "feed_back_title_error": "Feedback name ",
+  "feed_back_content": "Feedback Content",
+  "write_reason_to_contact": "Write reason to contact",
+  "contacts": "Contacts",
+  "your_contacts": "Your Contacts",
+  "contact_permission_message": "Share your contacts so you can choose who you would like to invite. We will keep your contacts safe.",
+  "agree": "Agree",
+  "no_thanks": "No thanks",
+  "please_select_at_least_one_contact": "Please select at least one Contact!",
+  "no_contacts": "Seems like you have no contact!",
+  "provide_valid": "Provider valid",
+  "invalid_email_address": "Provide valid email address",
+  "invalid_phone_number": "Provide valid phone number",
+  "invalid_first_name": "Provide valid first name",
+  "invalid_last_name": "Provide valid last name",
+  "invalid_password": "Password must be of 8 characters",
+  "both_password_must_much": "Both passwords must match",
+  "invitationSuccess": "Invitation Success",
+  "something_went_wrong": "Something went wrong",
+  "settings": "Settings",
+  "language": "Language",
+  "updateLanguageDescription":"Update Your Language",
+  "notifications": "Notifications",
+  "deactivate_account": "Deactivate account",
+  "are_you_sure_to_deactivate_your_account": "Are you sure to deactivate your account?",
+  "send": "Send",
+  "activate": "Activate",
+  "resend": "Resend Code",
+  "sending": "Sending...",
+  "code_sent": "Code Sent",
+  "finish": "Finish",
+  "setup": "Setup",
+  "pending": "Pending",
+  "search": "Search",
+  "title": "Title",
+  "yes": "Yes",
+  "how_satisfied_are_you_with_our_service": "How satisfied are you with our service?",
+  "review_suggestion": "What do you suggest we should work on more to be the best delivery platform.",
+  "optional_but_important_for_us": "Optional, but very important for us",
+  "greeting":"Hey, {userFullName} ",
+  "@greeting": {
+    "placeholders": {
+      "userFullName":{
+        "type":"String"
+      }
+    }
+  },
+  "no": "No",
+  "purchase_history_empty": "Seems like you haven't made any purchase just yet",
+  "not_logged_in": "Seems like you haven't logged in, Login or Signup to fully use all our features",
+  "explore_page": "Explore the home page for products and start sharing",
+  "no_phone_number": "Seems like you have no phone number registered, please add to continue",
+  "add_phone_number": "Add Phone Number",
+  "remove": "Remove",
+  "delivered": "Delivered",
+  "next": "Next",
+  "dropoff": "Dropoff",
+  "pickup": "Pickup",
+  "done": "Done",
+  "cannot_be_empty": "can't be empty!",
+  "incorrect_email_address_or_password": "Incorrect Email Address or Password",
+  "my_rewards": "My Rewards",
+  "promotions": "Promotions",
+  "empty_promotion": "Seems like there is not any promotions yet.",
+  "share": "Share",
+  "app_version": "App Version",
+  "redeem": "Redeem",
+  "remaining_redeem": "Remaining Redeems",
+  "installed_claims": "Installed Claims",
+  "my_progress": "My Progress",
+  "reward_progress": "You have redeemed {percentage}% of your reward",
+  "no_rewards": "Seems like you have no rewards yet please go to promotions page to get your rewards.",
+  "@reward_progress": {
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "expires_on": "Expires on {date}",
+  "@expires_on": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "of_value": "{valueOne} of {valueTwo}",
+  "@of_value": {
+    "placeholders": {
+      "valueOne": {
+        "type": "int"
+      },
+      "valueTwo": {
+        "type": "int"
+      }
+    }
+  },
+  "change": "Change",
+  "schedule": "Schedule",
+  "select_date": "Select Date",
+   "scheduled_for": "Scheduled for"
+
+}

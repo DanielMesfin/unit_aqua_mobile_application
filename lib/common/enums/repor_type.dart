@@ -1,0 +1,1 @@
+enum ReportType { water, fish, shrimp, soil, pcr, culture, feed }

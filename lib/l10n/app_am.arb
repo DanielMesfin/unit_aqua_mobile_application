@@ -1,0 +1,291 @@
+{
+  "activate": "አንቃ",
+  "add_at_least_one_item": "እባክህ ቢያንስ አንድ ስጦታ ጨምር!",
+  "add_at_least_one_item_in_to_cart": "እባክህ ቢያንስ አንድ ስጦታ ወደ ጋሪው ጨምር!",
+  "add_new_contact": "አዲስ የስልክ ቁጥር አድራሻ ጨምር",
+  "add_new_receiver": "አዲስ ተቀባይ ጨምር",
+  "add_phone_number": "ስልክ ቁጥር ጨምር",
+  "added_to_cart": "ወደ ጋሪው ተጨምሯል!",
+  "alreadyHaveAccount": "መለያ አለህ?",
+  "amount": "መጠን",
+  "app_version": "የመከወን ሥሪት",
+  "apply_to_cart": "በጋሪው ላይ አድርግ",
+  "are_you_sure_to_deactivate_your_account": "በርግጥ መለያህን ማፍዘዝ ትፈልጋለህ?",
+  "are_you_sure_to_remove_this_item": "በርግጥ ይህን ስጦታ ማስወገድ ትፈልጋለህ?",
+  "both_password_must_much": "ሁለቱም የይለፍ ቃሎች መመሳሰል አለባቸው",
+  "buy_now": "አሁኑኑ ግዛ",
+  "cannot_be_empty": "ባዶ ሊሆን አይችልም!",
+  "cart": "ጋሪ",
+  "check_your_email": "የኢሜል ሳጥንህን ፈትሽ",
+  "checkout": "ጨርሰህ ውጣ",
+  "choose_gift_receiver_to_share": "ልታጋራው የምትፈልገውን የስጦታ ተቀባይ ምረጥ፡፡",
+  "choose_receiver": "የስጦታ ተቀባይ ምረጥ",
+  "code_sent": "ክታብ ተልኳል",
+  "confirm_order": "ትዕዛዝ አረጋግጥ",
+  "pay_now": "አሁን ክፈል",
+  "confirm_password": "የይለፍ ቃል አረጋግጥ",
+  "contact_us": "ይገናኙን",
+  "contacts": "የስልክ አድራሻዎች",
+  "your_contacts": "የስልክ አድራሻዎችህ",
+  "contact_permission_message": "ማንን መጋበዝ እንደሚፈልጉ መምረጥ እንዲችሉ የስልክ አድራሻዎችህን ያጋሩ። የስልክ አድራሻዎችህን ደህንነት እናስጠብቃለን።",
+  "agree": "ተስማማ",
+  "no_thanks": "አይ አመሰግናለሁ",
+  "continueWith": "በ... ይቀጥሉ",
+  "create_new_password": "አዲስ የይለፍ ቃል ፍጠር",
+  "createAccount": "መለያ ፍጠር",
+  "deactivate_account": "መለያህን አፍዝዝ",
+  "delivered": "ደረሷል",
+  "did_not_receive_code": "ክታብ አልደረሰህም?",
+  "discover": "ግለጥ",
+  "do_not_have_account": "መለያ የለህም?",
+  "done": "ሆኗል",
+  "edit_receiver": "የስጦታ ተቀባይን አርም",
+  "emailAddress": "የኢሜል አድራሻ",
+  "dropoff": "Dropoff",
+  "pickup": "Pickup",
+  "address": "አድራሻ",
+  "empty_cart": "በጋሪው ውስጥ ምንም ስጦታ ያለ አይመስልም",
+  "empty_promotion": "እስካሁን ምንም ማስተዋወቂያዎች ያለ አይመስሉም።",
+  "enter_celebrity_code": "ልዩ የስጦታ መቀበያ ክታብ እዚህ አስገባ",
+  "enter_email_address_for_password_reset_instruction": "የይለፍ ቃልህን እንዴት መቀየር እንደምትችል መመሪያ እንድንልክልህ የኢሜል አድራሻህን አስገባ",
+  "enter_receiver_code_here": "ክታብ እዚህ አስገባ",
+  "explore_page": "ስለምርቶች ዋና ገጹን አስስ እና ማጋራት ጀምር",
+  "exploreGifts": "ስጦታዎችን አስስ",
+  "exploring_products": "ምርቶችን ማሰስ",
+  "feed_back_content": "የግብረመልስ ይዘት",
+  "feed_back_title_error": "የግብረመልስ ስም",
+  "finish": "ጨርስ",
+  "first_name": "(የራስ) ስም",
+  "forgot_password": "የይለፍ ቃልህን ረስተሀል?",
+  "forgotPasswordInstruction": "የይለፍ ቃልዎን እንደገና ለማስጀመር ወደ ኢሜልዎ ማስፈንጠሪያ እንድንልክልዎ እባክዎ የኢሜል አድራሻዎን ያስገቡ።",
+  "fulfilled": "ደረሷል",
+  "full_name": "ሙሉ ስም",
+  "gift_receiver": "ስጦታ ተቀባይ",
+  "giveGiftTagline": "በeStota መከውን የፍቅር ስጦታ ስጥ!",
+  "home": "ዋና ገጽ",
+  "restaurants": "Restaurants",
+  "liquor": "Liquor",
+  "giftStore": "Gifts",
+  "essentials": "Essentials",
+  "filters": "ማጣሪያዎች",
+  "more": "more",
+  "popular": "Popular",
+  "nearBy": "NearBy",
+  "all": "All",
+  "orderNow": "Order Now",
+  "percentageOff": "{percentage}% off",
+  "@percentageOff": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      }
+    }
+  },
+  "store_header": "{title} {category}",
+  "@store_header": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "myCart": "My Cart",
+  "myOrders": "የእኔ ትእዛዞች",
+  "editProfile": "መገለጫ አድስ",
+  "save": "Save",
+  "review": "Review",
+  "review_description": "ዛሬ እኛን ስለመረጡን እናመሰግናለን! እርስዎን እና ሌሎችን በተሻለ ሁኔታ እንድናገለግል እንዲረዳን ስለዛሬው ተሞክሮዎ አስተያየት ሊሰጡን ይችላሉ?",
+  "submit": "Submit",
+  "metahuAddis": "Metahu Addis",
+  "reachOut": "Reach out to us",
+  "followUs": "Follow Us",
+  "loadMore": "Load More",
+  "trackNow": "Track Now",
+  "deliveryAddress": "Delivery Address",
+  "estimatedDeliveryTime": "Estimated delivery time",
+  "metahuAddisDescription": "Metahu Addis, a registered trademark of Green Addis Technologies PLC, is an on-demand delivery platform driven by state-of-the-art technology accompanied by immaculate customer service and unlimited options for customers to access their favorite restaurants grocery stores pharamaceuticals and gift shops in an easy and fast way",
+  "changePassword": "Change Password",
+  "changePasswordDescription": "Update or change your current password. You might have to login after the change",
+  "editProfileDescription": "ስለራስዎ ዝርዝር መረጃ ማደስ ይችላሉ።",
+  "myOrdersDescription": "ሁሉንም ትዕዛዞችዎን በአንድ ቦታ ያስተዳድሩ::",
+  "addressDescription": "የመላኪያ አድራሻዎችዎን ያስተዳድሩ::",
+  "notificationDescription": "ሁሉንም ማሳወቂያዎችዎን ያስተዳድሩ",
+  "settingDescription": "የማሳወቂያ ምርጫዎችዎን ያዘጋጁ ፣ ቋንቋ እና የይለፍ ቃል ይቀይሩ፡፡",
+  "couponCode": "Coupon Code",
+  "createProfile": "መገለጫ ፍጠር",
+  "updateProfile": "መገለጫ አድስ",
+  "how_it_works": "እንዴት እንደሚሰራ",
+  "incorrect_email_address_or_password": "የተሳሳተ የኢሜል አድራሻ ወይም የይለፍ ቃል",
+  "installed_claims": "የተተከሉ ጥያቄዎች",
+  "invalid_email_address": "ትክክለኛ የኢሜይል አድራሻ አስገባ",
+  "invalid_first_name": "ትክክለኛ የ(ራስ) ስም አስገባ",
+  "invalid_last_name": "ትክክለኛ የአባት ስም አስገባ",
+  "invalid_password": "የይለፍ ቃል 8 ፊደል መሆን አለበት",
+  "invalid_phone_number": "ትክክለኛ ስልክ ቁጥር አስገባ",
+  "invitationSuccess": "ግብዣ ተሳክቷል",
+  "invite": "ጋብዝ",
+  "invite_contact": "ባለስልክ አድራሻ ጋብዝ",
+  "estota_collects_contact_list": "ኢ-ስጦታ ከጓደኞችህ ጋር ለመገናኘት በምትፈልግበት ጊዜ ማጋራትን ለማስቻል ኢ-ስጦታ መተግበሪያ የእርስዎን አድራሻ ዝርዝር ውሂብ ይሰበስባል",
+  "notice": "ማስታወቂያ",
+  "ok": "እሺ",
+  "cancel": "ሰርዝ",
+  "activeOrders": "Active Orders",
+  "completedOrders": "Completed Orders",
+  "reorder": "Reorder",
+  "orderDetail": "Order Detail",
+  "you_need_to_accept_this_permission": "{feature_name} ባህሪ ለእርስዎ ለመፍቀድ {permission_name} ፈቃድ እንፈልጋለን",
+  "by_using_estota_app_you_agree_to_our": "ኢ-ስጦታን መተግበሪያን በመጠቀም በእኛ ",
+  "terms": "ውሎች",
+  "and": " እና ",
+  "privacy_policy": "የግላዊነት ፖሊሲ",
+  "agreed": "ተስማምተሃል።",
+  "@you_need_to_accept_this_permission": {
+    "placeholders": {
+      "permission_name": {
+        "type": "String"
+      },
+      "feature_name": {
+        "type": "String"
+      }
+    }
+  },
+  "items": "ሰጦታዎች",
+  "language": "ቋንቋ",
+  "last_name": "የአባት ስም",
+  "learnMore": "ተጨማሪ ይወቁ",
+  "verificationCode": "Verification Code",
+  "weJustSentAVerificationCodeTo": "We just sent a verification code to {phoneNumber}",
+  "@weJustSentAVerificationCodeTo": {
+    "placeholders": {
+      "phoneNumber": {
+        "type": "String"
+      }
+    }
+  },
+  "login": "በውል ግቡ",
+  "locations": "Locations",
+  "priceSummary": "Price Summary",
+  "loginInstruction": "ለመግባት እና የመጣሁ አዲስን ምርጡን ለማግኘት ኢሜልዎን እና የይለፍ ቃልዎን ያስገቡ።",
+  "login_with_email": "በኢሜል በውል ይግባ",
+  "logout": "በውል ውጣ",
+  "are_you_sure_you_really_want_to_log_out": "እርግጠኛ ነህ ዘግተህ መውጣት ትፈልጋለህ?",
+  "my_progress": "ዘለቃዬ",
+  "my_rewards": "ሽልማቶቼ",
+  "name": "ስም",
+  "new_receiver": "አዲስ ስጦታ ተቀባይ",
+  "next": "ቀጣይ",
+  "no": "የለም",
+  "no_contacts": "የስልክ አድራሻ ያለዎት አይመስልም!",
+  "no_phone_number": "የተመዘገበ ስልክ ቁጥር ያለህ አይመስልም፣ ለመቀጠል እባክህ ጨምር",
+  "no_receiver_found": "ስጦታ ተቀባይ ያለህ አይመስልም፣ እባክዎን ስጦታ ተቀባይ ጨምር",
+  "not_logged_in": "በውል የገባህ አይመስልም፤ በሁሉም የመከውናችን ባህርያት ለመጠቀም በውል ግባ ወይም መዝገብ",
+  "notifications": "ማሳወቂያ",
+  "order_number": "የትእዛዝ ቁጥር:",
+  "password": "የይለፍ ቃል",
+  "enterYourAddress": "አድራሻዎትን ያስገቡ",
+  "password_reset": "የይለፍ ቃልዎን ቀይር",
+  "password_reset_success": "የይለፍ ቃልህ በትክክል ተቀይሯል",
+  "payment": "ክፍያ",
+  "payment_completed": "ክፍያ ተጠናቅቋል።",
+  "payment_failed": "ክፍያ አልተሳካም።",
+  "payment_type": "የክፍያ ዓይነት",
+  "pending": "ያልተፈጸመ",
+  "phone": "ስልክ",
+  "phone_number": "ስልክ ቁጥር",
+  "please_select_at_least_one_contact": "እባክህ ቢያንስ አንድ የስልክ አድራሻ ምረጥ",
+  "product_description": "የምርት ማብራሪያ",
+  "products": "ምርቶች",
+  "profile": "ገጸባህሪ",
+  "promotions": "ማስተዋወቂያዎች",
+  "provide_valid": "አቅራቢው ፍቱን (ነው)",
+  "purchase_history": "የግዢ ዝርዝር",
+  "purchase_history_empty": "እስካሁን ምንም አይነት ግዢ የፈጸምክ አይመስልም።",
+  "purchase_success_message": "ስጦታ ተቀባይህን ስላስደሰትክ እናመሰግናለን፦ በግዢ ሰነድ ስር ያለውን የግዢ መረጃ ከማስተካከያዎች ማያ ገጽ ማግኘት ትችላለህ።",
+  "quantity": "ብዛት",
+  "receiver_list": "የስጦታ ተቀባይ ዝርዝር",
+  "redeem": "በሽልማትህ  ክፈል",
+  "remaining_redeem": "ከሽልማትህ ቀሪ",
+  "remove": "አስወግድ",
+  "remove_item": "አስወግድ",
+  "remove_receiver": "ይህ ስጦታ አስወግድ",
+  "resend": "የሚስጥር ቁልፍ እንደገና ላክ",
+  "reward_progress": "የሽልማትዎን {percentage}% ወደክፍያ ለውጠሃል።",
+  "search": "ይፈልግ",
+  "search_celebrity": "ልዩ ስጦታ ተቀባይን ፈልግ",
+  "send": "ላክ",
+  "send_your_gifts": "ስጦታዎችህን ላክ",
+  "sending": "እየላከ ነው",
+  "settings": "ማስተካከያዎች",
+  "setup": "አዘገጃጀት",
+  "share": "ያጋር",
+  "share_description": "ስጦታ እንዲላክልህ ትፈልጋለህ፧ ወይንም ይህን ምርት ማጋራት ትፈልጋለህ፧",
+  "share_link": "መሰናስሉን አጋራ",
+  "share_this_product": "ይህን ምርት አጋራ",
+  "sharing": "እያጋራ ነው",
+  "sign_up": "መዝገብ",
+  "signUpInstruction": "Welcome, fill the form below to signup as a new user",
+  "skip_login": "አሳልፍ",
+  "something_to_tell_us": "የምትነግረን ነገር አለ?",
+  "something_went_wrong": "የሆነ ስህተት ተከስቷል",
+  "special_receiver": "ልዩ ተቀባይ",
+  "start_sharing": "ማጋራት ጀመር",
+  "start_sharing_today": "ዛሬውኑ ማጋራት ጀምር",
+  "started": "ተጀመረ",
+  "sub_total": "ንዑስ ድምር፡",
+  "thank_you_for_reaching_out": "እኛን በመገናኘትህ እናመሰግናለን",
+  "title": "ርዕስ",
+  "total_price": "ጠቅላላ ዋጋ:",
+  "unknown": "ያልታወቀ",
+  "update_receiver": "ተቀባዩን አዘምን",
+  "we_are_glad_you_are_here": "እኛ ዘንድ በመሆንህ ደስ ብሎናል።",
+  "we_have_sent_an_email_check_your_email_for_activation_code": "አሁን ኢሜይል ልከናል። እባክህ የኢሜል ሳጥንህን አረጋግጥ እና የተላከልህን ክታብ እዚህ አስገባ",
+  "welcome": "እንኳን ደህና መጡ",
+  "welcomeBack": "ዳግም እንኳን ደህና መጡ",
+  "write_reason_to_contact": "እኛን ለመገናኘት ምክንያት የሆነህን ነገር ጻፍ",
+  "yes": "አዎ",
+  "greeting":"ሰላም {userFullName} ",
+  "how_satisfied_are_you_with_our_service": "በአገልግሎታችን ምን ያህል ረክተዋል?",
+  "review_suggestion": "ምርጡ የመላኪያ መድረክ ለመሆን የበለጠ መስራት እንዳለብን ምን ይጠቁማሉ።",
+  "optional_but_important_for_us": "ግዴታ አይደለም, ግን ለእኛ በጣም አስፈላጊ ነው",
+  "@greeting": {
+    "placeholders": {
+      "userFullName":{
+        "type":"String"
+      }
+    }
+  },
+  "phone_contacts_list": "የስልክ አድራሻዎች ዝርዝር",
+  "share_from_phone_contacts_list": "ከስልክ አድራሻዎች ዝርዝር ማጋራት",
+  "your_new_password_must_be_differ_from_previous": "አዲሱ የይለፍ ቃልህ ከቀዳሚው የይለፍ ቃልህ የተለየ መሆን አለበት።",
+  "your_special_receiver_will_appear_here": "የአንተ ልዩ ስጦታ ተቀባዮች እዚህ ይታያሉ።",
+  "no_rewards": "እስካሁን ምንም ሽልማቶች ያለዎት አይመስልም እባኮትን ሽልማቶችን ለማግኘት ወደ ማስተዋወቂያ ገፅ ይሂዱ።",
+  "@reward_progress": {
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "expires_on": "{date} ላይ ጊዜው ያበቃል",
+  "@expires_on": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "of_value": "{valueOne} ከ {valueTwo}",
+  "@of_value": {
+    "placeholders": {
+      "valueOne": {
+        "type": "int"
+      },
+      "valueTwo": {
+        "type": "int"
+      }
+    }
+  }
+}
